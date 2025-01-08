@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @septesian
-- 👀 I’m interested in PHP, Javascript and Kotlin plus python.
+- 👋 Hi, I’m @septesian. I have been programming for over fifty years in everything from Basic, Fortran and assembler on DEC and IBM to Kotlin on the Android platform.  
+- 👀 I’m currenlty interested in PHP, Javascript, python and Kotlin.
 - 📫 How to reach me ...
 
 <!---
